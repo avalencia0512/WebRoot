@@ -1,0 +1,11 @@
+.pic {
+    align-content: center;
+    border: solid;
+    border-color: lightslategray;
+}
+
+.bodycontent {
+    background-color: lightsteelblue;
+    border: solid;
+    border-color: lightslategray;
+}
