@@ -1,11 +1,5 @@
-.pic {
-    align-content: center;
-    border: solid;
-    border-color: lightslategray;
-}
-
-.bodycontent {
+div {
     background-color: lightsteelblue;
     border: solid;
-    border-color: lightslategray;
+    border-color: lightslategrey;
 }
