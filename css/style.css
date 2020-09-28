@@ -2,4 +2,9 @@ div {
     background-color: lightsteelblue;
     border: solid;
     border-color: lightslategrey;
+    font-family: sans-serif;
+}
+
+p {
+    color: darkmagenta;
 }
