@@ -8,3 +8,14 @@ div {
 p {
     color: darkmagenta;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+.resources {
+    width: 50%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
